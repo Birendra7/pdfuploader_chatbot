@@ -1,0 +1,7 @@
+Flask
+nltk
+numpy
+scikit-learn
+pdfplumber
+PyMuPDF
+
